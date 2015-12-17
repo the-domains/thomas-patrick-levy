@@ -1,0 +1,28 @@
+name: Thomas Patrick Levy
+favicon: null
+layout_spectrum: 0.10010308166965842
+typography_spectrum: 0.2921613026410341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6682194399181753
+  lightness: 0.3356121354736388
+  saturation: 0.6381369431037456
+  rhythmicContrast: 0.507082796888426
+purpose: []
