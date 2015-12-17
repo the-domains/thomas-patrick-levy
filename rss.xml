@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Thomas Patrick Levy]]></title>
+        <description><![CDATA[Thomas Patrick Levy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 16:57:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[I Don't Mind if You're Feeling Alone - Thomas Patrick Levy]]></title>
+            <description><![CDATA[<article><h1>I Don't Mind if You're Feeling Alone - Thomas Patrick Levy</h1><p>Thomas Patrick Levy dropped out of an MFA program and currently works as a freelance web developer. He is author of the full-length poetry collection I Don't Mind if You're Feeling Alone (YesYes Books, 2012) and the chapbook Please Don't Leave Me Scarlett Johansson (Vinyl 45s, 2011).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a7ed63f77740f113e40a2cdc6012b40caa35a39.png"></article>]]></description>
+            <link>http://thomaspatricklevy.com/2012/02/28/i-dont-mind-if-youre-feeling-alone/</link>
+            <guid isPermaLink="false">27896cd9-b00b-427a-b819-93ec6aaba612</guid>
+            <pubDate>Thu, 17 Dec 2015 16:57:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
