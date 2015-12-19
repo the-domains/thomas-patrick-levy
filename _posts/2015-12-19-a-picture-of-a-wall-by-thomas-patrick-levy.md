@@ -17,8 +17,8 @@ keywords:
   - retrocast
   - thefearraiser
 description: Uploaded by thomas patrick levy on 2015-06-24.
-datePublished: '2015-12-19T06:22:23.807Z'
-dateModified: '2015-12-19T06:22:14.499Z'
+datePublished: '2015-12-19T06:27:39.929Z'
+dateModified: '2015-12-19T06:25:11.205Z'
 author:
   - name: thomas patrick levy
     url: 'https://www.youtube.com/channel/UCrPCweXh8YAPbJ6FzXX4NeQ'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=X9jTm6tNSRk&feature=applinks'
     type: web
 title: A Picture of A Wall by Thomas Patrick Levy
+sourcePath: _posts/2015-12-19-a-picture-of-a-wall-by-thomas-patrick-levy.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-19-a-picture-of-a-wall-by-thomas-patrick-levy.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
